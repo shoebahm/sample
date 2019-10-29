@@ -1,2 +1,3 @@
- #Sampleapp
- This is a readme file
+ #SampleApplication
+
+Testing application
