@@ -1,2 +1,2 @@
- #Sample app
+ #Sampleapp
  This is a readme file
